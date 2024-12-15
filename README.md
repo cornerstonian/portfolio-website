@@ -1,5 +1,7 @@
 <h1>Deploy a Website Using Azure and GitHub (Automation, CI/CD)</h1>
 
+VISIT SITE: https://kind-island-058855e1e.4.azurestaticapps.net/  
+
 Deploying a static responsive website in Azure using GitHub involves integrating **Azure Static Web Apps** with a GitHub repository. This method automates deployments and is ideal for collaborative and CI/CD workflows.
 
 **What is CI/CD (Continuous Integration and Continuous Deployment)?** is a practice in software development that automates the process of integrating code changes and deploying them to production. 
