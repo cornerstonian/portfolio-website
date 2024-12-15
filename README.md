@@ -6,6 +6,9 @@ Deploying a static responsive website in Azure using GitHub involves integrating
 
 - **Continuous Integration (CI)** involves automatically testing and integrating code changes into a shared repository multiple times a day or as often as needed.
 - **Continuous Deployment (CD)** ensures that these changes are automatically deployed to production environments after passing tests, which gives us rapid and reliable delivery of software.
+
+<img width="1088" alt="image" src="https://github.com/user-attachments/assets/ba07a20c-3434-4a86-994f-ff59bb0b5a25" />
+
   
 ---
 
