@@ -17,6 +17,7 @@ Deploying a static responsive website in Azure using GitHub involves integrating
 ### Environments and Technologies Used ###
 
   - Visual Studio Code (VS Code)
+  - Azure Virtual Machines
   - HTML
   - CSS
   - JavaScript
