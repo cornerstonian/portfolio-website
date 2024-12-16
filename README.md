@@ -1,4 +1,4 @@
-<h1>Deploy a Website Using Azure and GitHub (Automation, CI/CD)</h1>
+<h1>Deploy a Website in the Cloud Using Azure and GitHub (Automation, CI/CD)</h1>
 
 VISIT SITE: https://kind-island-058855e1e.4.azurestaticapps.net/  
 
