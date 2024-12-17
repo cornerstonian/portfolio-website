@@ -4,7 +4,7 @@ VISIT SITE: https://kind-island-058855e1e.4.azurestaticapps.net/
 
 Deploying a static responsive website in Azure using GitHub involves integrating **Azure Static Web Apps** with a GitHub repository. This method automates deployments and is ideal for collaborative and CI/CD workflows.
 
-**What is CI/CD (Continuous Integration and Continuous Deployment)?** is a practice in software development that automates the process of integrating code changes and deploying them to production. 
+**What is CI/CD (Continuous Integration and Continuous Deployment)?** It is a practice in software development that automates the process of integrating code changes and deploying them to production. 
 
 - **Continuous Integration (CI)** involves automatically testing and integrating code changes into a shared repository multiple times a day or as often as needed.
 - **Continuous Deployment (CD)** ensures that these changes are automatically deployed to production environments after passing tests, which gives us rapid and reliable delivery of software.
